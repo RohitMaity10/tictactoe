@@ -8,7 +8,10 @@ A clean, responsive Tic-Tac-Toe web game built with Vanilla JavaScript, HTML5, a
 - Win combination animations
 - Playable on both desktop and mobile devices
 
-## How to Play
+## 🌐 Live Demo
+Play the game online: [https://rohitmaity10.github.io/tictactoe/](https://rohitmaity10.github.io/tictactoe/)
+
+## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/tic-tac-toe.git](https://github.com/your-username/tic-tac-toe.git)
+   git clone [https://github.com/RohitMaity10/tictactoe.git](https://github.com/RohitMaity10/tictactoe.git)
